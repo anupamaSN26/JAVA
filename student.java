@@ -26,7 +26,7 @@ class Student {
 
                 }
 
-            }
+            } 
         }
          
          System.out.println("Names in sorted Order :");
