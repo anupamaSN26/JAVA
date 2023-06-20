@@ -34,7 +34,7 @@ class matAdd{
     }
     void PrintM()
     {
-        System.out.println(" elements A are:");
+        System.out.println(" elements of A are:");
         for(int i=0;i<2;i++){
             for(int j=0;j<2;j++){
          System.out.print(a[i][j]+" ");
@@ -42,7 +42,7 @@ class matAdd{
           System.out.println();
         }
 
-        System.out.println(" elements B are:");
+        System.out.println(" elements of B are:");
         for(int i=0;i<2;i++){
             for(int j=0;j<2;j++){
          System.out.print(b[i][j]+" ");
@@ -50,7 +50,7 @@ class matAdd{
           System.out.println();
         }
 
-        System.out.println(" elements C are:");
+        System.out.println(" matrix addition : ");
         for(int i=0;i<2;i++){
             for(int j=0;j<2;j++){
          System.out.print(c[i][j]+" ");
